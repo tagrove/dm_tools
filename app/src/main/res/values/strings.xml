@@ -3,5 +3,4 @@
     <string name="title_activity_new_character">NewCharacter</string>
     <string name="title_activity_load_world">LoadWorld</string>
     <string name="title_activity_new_world">NewWorld</string>
-    <string name="title_activity_misc_tools">MiscTools</string>
 </resources>
